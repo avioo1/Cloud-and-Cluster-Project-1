@@ -1,6 +1,5 @@
 COMP90024_2019_SM1 Assignment 1
 
-Navaneeth Rajagopalan
 Avinash Rao
 
 Instructions:
